@@ -10,7 +10,7 @@ import next.xadmin.login.bean.LoginBean;
 
 public class LoginDao {
 	private String dbUrl="jdbc:mysql://localhost:3306/userdb";
-	private String dbUname="root";//right
+	private String dbUname="//";//right
 	private String dbPassword="//";//your password
 	private String dbDriver ="com.mysql.jdbc.Driver";//right
 	public static void loadDriver(String dbDriver) {
