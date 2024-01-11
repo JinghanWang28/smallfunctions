@@ -10,7 +10,7 @@
 </head>
 <body>
 <div align="center">
-<h1>User Signup Login</h1>
+<h1>User Signup Login</h1> 
 <!-- Login form -->
 <form action="login" method="post" class="auth-form">
 <table>
